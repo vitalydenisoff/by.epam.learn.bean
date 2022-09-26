@@ -20,9 +20,7 @@ public class Coin {
     public double takeWeight() {
         return weight;
     }
-    public void setWeight(double value) {
-        weight = value;
-    }
+
 
     public void setDiameter(double v) {
     }
